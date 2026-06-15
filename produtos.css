@@ -1,0 +1,10 @@
+header {
+    background: #BBBBBB;
+}
+
+nav li{ /*seleto. Ele diz ao navegador:"Procure por todas as tag<li> que estejam dentro de uma tag 
+    <nav> e explique as regras a baixo*/
+    display: inline;
+    margin: 0 0 0 15px;
+}
+
